@@ -1,6 +1,8 @@
 # powermta
 # PowerMTA
 # Power MTA
+# PowerMTA server
+# PowerMTA SMTP Server
 Dear Enterprise Lavel Email Marketer.
 I have latest PowerMTA 4.0r5 with have license key for lifetime activation
 	 and PowerMTA 4.0r6 with have license key for lifetime activation
